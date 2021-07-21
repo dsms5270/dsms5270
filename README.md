@@ -2,7 +2,8 @@
 - 👀 I’m interested in anaylyzing data 
 - 🌱 I’m currently learning data science with SQL, R and Python
 - :computer: (2019.6-2021.2) Worked as a platform operation manager and business planner for about 2 years 
-- :star2: to be a data analyst!
+- :star2: Preparing to become a data analyst!
+
 \
 \
 \
