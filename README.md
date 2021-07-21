@@ -14,19 +14,37 @@ ADP	| https://www.kdata.or.kr/	| 2021.04.09 | Pending
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>초간단 테이블</title>
+<title> Qualifications/Licenses </title>
 </head>
 <body>
     <table border="1">
-	<th>테이블</th>
-	<th>만들기</th>
+	<th>Type of qualifications</th>
+	<th>Issued by</th>	
+	<th>Isseue date</th>
+	<th>Comment</th>
 	<tr><!-- 첫번째 줄 시작 -->
-	    <td>첫번째 칸</td>
-	    <td>두번째 칸</td>
+	    <td>ADsP</td>
+	    <td>KOREA Data Agency</td>
+	    <td>2020.09.29</td>
+	    <td>Final Pass</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
-	    <td>첫번째 칸</td>
-	    <td>두번째 칸</td>
+	    <td>ADsP</td>
+	    <td>KOREA Data Agency</td>
+	    <td>2020.09.29</td>
+	    <td>Final Pass</td>
+	</tr><!-- 두번째 줄 끝 -->
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>ADsP</td>
+	    <td>KOREA Data Agency</td>
+	    <td>2020.09.29</td>
+	    <td>Final Pass</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>ADsP</td>
+	    <td>KOREA Data Agency</td>
+	    <td>2020.09.29</td>
+	    <td>Final Pass</td>
 	</tr><!-- 두번째 줄 끝 -->
     </table>
 </body>
