@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science with SQL, R and Python
 
 
-- :computer: (2019.6-2021.2) Working as a platform operation manager and business planner for about 2 years 
+- :computer: (2019.6-2021.2) Worked as a platform operation manager and business planner for about 2 years 
 
 \
 \
