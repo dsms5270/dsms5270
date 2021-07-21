@@ -6,11 +6,7 @@
 
 
 Type of qualifications | Issued by | Issue date | Comment 
-
 ADSP	| https://www.kdata.or.kr/	| 2020.09.29 | Final Pass  
-
 SQLD	| https://www.kdata.or.kr/	| 2021.06.25 | Final Pass 
-
 ADP	| https://www.kdata.or.kr/	| 2021.04.09 | Pending 
-
 빅데이터 분석기사 |	https://www.kdata.or.kr/| 2021.05.07 | Pending 
