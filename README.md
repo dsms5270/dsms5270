@@ -14,7 +14,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title> Qualifications or Licenses </title>
+Qualifications or Licenses 
 </head>
 <body>
     <table border="1">
