@@ -59,7 +59,12 @@ https://dsms27.tistory.com/category/SQL%20for%20Designing%20Data%20Science
 
 :link: Python Portfolio
 https://dsms27.tistory.com/category/Python%20for%20Designing%20Data%20Science
-\
-\
-\
+
+
+
+
+
+
+
+
 
