@@ -7,14 +7,15 @@
 
 \
 \
-\;
+\
+\
+\Qualifications or Licenses 
 
 
 
 <html>
 <head>
 <meta charset="EUC-KR">
-Qualifications or Licenses 
 </head>
 <body>
     <table border="1">
