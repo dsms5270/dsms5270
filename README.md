@@ -8,8 +8,6 @@
 \
 \
 \
-
-
 <html>
 <head>
 <meta charset="EUC-KR">
