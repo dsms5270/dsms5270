@@ -9,7 +9,7 @@
 \
 \
 \
-\Qualifications or Licenses 
+Qualifications or Licenses 
 
 
 
