@@ -36,7 +36,7 @@ Qualifications or Licenses
 	<tr><!-- 첫번째 줄 시작 -->
 	    <td>ADP</td>
 	    <td>KOREA Data Agency</td>
-	    <td>2020.04.09</td>
+	    <td>2021.04.09</td>
 	    <td>Pending</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
