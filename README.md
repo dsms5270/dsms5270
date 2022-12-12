@@ -19,7 +19,7 @@ Qualifications or Licenses
     <table border="1">
 	<th>Type of qualifications</th>
 	<th>Issued by</th>	
-	<th>Isseue date</th>
+	<th>Issued date</th>
 	<th>Comment</th>
 	<tr><!-- 첫번째 줄 시작 -->
 	    <td>ADsP</td>
