@@ -43,7 +43,7 @@ Qualifications or Licenses
 	    <td>빅데이터분석기사</td>
 	    <td>KOREA Data Agency</td>
 	    <td>2021.05.07</td>
-	    <td>Final Pas</td>
+	    <td>Final Pass</td>
 	</tr><!-- 두번째 줄 끝 -->
     </table>
 </body>
