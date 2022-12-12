@@ -37,13 +37,13 @@ Qualifications or Licenses
 	    <td>ADP</td>
 	    <td>KOREA Data Agency</td>
 	    <td>2021.04.09</td>
-	    <td>Final Pass</td>
+	    <td>Pending</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>빅데이터분석기사</td>
 	    <td>KOREA Data Agency</td>
 	    <td>2021.05.07</td>
-	    <td>Pending</td>
+	    <td>Final Pas</td>
 	</tr><!-- 두번째 줄 끝 -->
     </table>
 </body>
